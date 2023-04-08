@@ -15,7 +15,7 @@ int main(){
 ## Introduction of myself as a person
 My name is **Chengtao Wu**. I was born and raised in Shanghai. I am currently a student of [UCSD](https://ucsd.edu/) majoring in Computer Engineering. 
 
-Here is an ordered list of things that I do during my spare time.
+Here is an ordered list of things that I do during my spare time
    1. workout
    2. playing with my cats
    3. solving [Leetcode problems](https://leetcode.com/problems/)
